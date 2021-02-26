@@ -21,3 +21,5 @@ This PDF has pretty much everything you'd need: https://education.github.com/git
 1. Add - "stating" what you will save
 2. Commit - "saving" what you changed
 3. Push - "updating" GitHub
+4. If applicable: merging and creating pull requests
+5. Sometimes: fixing merge conflicts
