@@ -1,4 +1,4 @@
-# MELTGithubWorkshop
+# Lubin Laboratory - MELT Team Software Github Workshop
 Demo Repository to Teach Git and GitHub
 
 ## What is Git and Github?
