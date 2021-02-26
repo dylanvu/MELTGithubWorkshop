@@ -7,7 +7,7 @@ Demo Repository to Teach Git and GitHub
 
 ## Why Use Git and Github?
 * Quicker and easier to collaborate on code and projects
-* Create "checkpoints" amd maintain a history in case something goes wrong
+* Create "checkpoints" and maintain a version history in case something goes very very wrong (anecdote)
 
 ## Terminology
 * Repository - where the code is stored online
