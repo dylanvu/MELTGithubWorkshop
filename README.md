@@ -44,6 +44,7 @@ Demo Repository to Teach Git and GitHub
     
     To switch branches to mybranchnamehere: `git checkout mybranchnamehere`
 * Main - Master copy of working code
+    * All code on the repository is based off of main. If something in main breaks, it breaks for everyone's branch in the project! Be careful.
 * Committing - the "checkpoint"
 * Pushing - updating the code on the repository
 
