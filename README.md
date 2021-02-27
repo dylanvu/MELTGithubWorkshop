@@ -77,7 +77,7 @@ This PDF has pretty much everything you'd need for commands: https://education.g
     Depending on what branch you are on, you have to push to that branch. So if you were editing on mybranchnamehere: `git push origin mybranchnamehere`
     
     If you are on main: `git push origin main`
-4. Merging with main (assuming you are a collaborator. If you are not, you have to submit a pull request)
+4. Merging with main (assuming you are a collaborator. If you are not, you have to submit a pull request on the website and get it approved by the owner)
     
     First, update your own branch by adding, committing, and pushing to your branch
     
