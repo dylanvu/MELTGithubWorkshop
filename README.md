@@ -29,11 +29,11 @@ Demo Repository to Teach Git and GitHub
     * Open up your terminal and change directory to where you want to create this repository on your device
         * On Windows: to change directory, copy the path. In the terminal: `cd "PATHHERE"`
 
-        For example: `cd "C:\Users\Dylan Vu\Visual Studio Code Projects\Projects\"`
+            For example: `cd "C:\Users\Dylan Vu\Visual Studio Code Projects\Projects\"`
 
     * Paste that link in the terminal: `git clone PASTEITHERE`
     
-    For example, if you were cloning this specific repository: `git clone https://github.com/vu-dylan/MELTGithubWorkshop.git`
+        For example, if you were cloning this specific repository: `git clone https://github.com/vu-dylan/MELTGithubWorkshop.git`
 * Branch - Your own workspace, essentially
     
     To create a branch:
@@ -90,11 +90,11 @@ This PDF has pretty much everything you'd need for commands: https://education.g
 5. Sometimes: pulling from main
     * If someone else edits a branch (main included) that you are working on, you have to update your local copy of the code.
 
-    For example:
+        For example:
     
-    `git pull origin main`
+        `git pull origin main`
     
-    `git pull origin mybranchnamehere`
+        `git pull origin mybranchnamehere`
 6. Fixing merge conflicts
     
     If two people edit the same lines of code at once, Git doesn't know which is the "correct" copy. So you will get a merge conflict. If this happens, you have to open up the file on your computer, fix the conflict, commit, and then push again
