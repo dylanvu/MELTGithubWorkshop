@@ -18,6 +18,7 @@ Demo Repository to Teach Git and GitHub
 
 ## Terminology
 * Command Line/Terminal - If you're familiar with Python, it'll be where you run all the `pip install` commands. On Windows, you can use cmd or powershell as well.
+    * All `git` commands will be run in the terminal
 * Directory - Where you currently are working on. In the terminal, you'll see something along the lines of: `PS C:\Users\Dylan Vu\Visual Studio Code Projects\Projects\MELTGithubWorkshop>` before where you can type in the terminal. That is your current directory that you're working in.
 * Path - If you are on Windows and go on file explorer, if you click on the top you'll have a URL-equivalent on the computer. For example: `C:\Program Files`
 * Repository/Repo - where the code is stored online
@@ -48,12 +49,11 @@ Demo Repository to Teach Git and GitHub
 
 ## Basic Workflow
 This PDF has pretty much everything you'd need for commands: https://education.github.com/git-cheat-sheet-education.pdf
-0. Git status is super helpful. It tells you what files you haven't added yet, what files you have, and what branch you are on.
+
+0. `git status` is super helpful. It tells you what files you haven't added yet, what files you have, and what branch you are on.
 1. Add - "stating" what you will save
     
-    Run:
-
-    `git add FILENAME.EXTENSION`
+    Run: `git add FILENAME.EXTENSION`
     
     For example: `git add README.md`
     
