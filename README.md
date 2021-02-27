@@ -11,18 +11,26 @@ Demo Repository to Teach Git and GitHub
 
 ## Prerequisites
 * A Github account
-* Git
+* Git software (https://git-scm.com/downloads)
 * A repository to you are the owner of/are a collaborator
     * If you want to be added as a collaborator
         * Ask the owner of the repo to go to "Settings" -> "Manage Access" -> Add you as a collaborator
 
 ## Terminology
+* Command Line/Terminal - If you're familiar with Python, it'll be where you run all the `pip install` commands. On Windows, you can use cmd or powershell as well.
+* Directory - Where you currently are working on. In the terminal, you'll see something along the lines of: `PS C:\Users\Dylan Vu\Visual Studio Code Projects\Projects\MELTGithubWorkshop>` before where you can type in the terminal. That is your current directory that you're working in.
+* Path - If you are on Windows and go on file explorer, if you click on the top you'll have a URL-equivalent on the computer. For example: `C:\Program Files`
 * Repository/Repo - where the code is stored online
     
-    To obtain a copy of the repository:
-    * Go to the repository and hit the green "code" button
+    To obtain a copy of the repository on Github:
+    * Go to the repository and hit the green "code" button near the top
     * Copy the link on HTTPS
-    * Open up your terminal and paste it in: `git clone PASTEITHERE`
+    * Open up your terminal and change directory to where you want to create this repository on your device
+        * On Windows: to change directory, copy the path. In the terminal: `cd "PATHHERE"`
+
+        For example: `cd "C:\Users\Dylan Vu\Visual Studio Code Projects\Projects\"`
+
+    * Paste that link in the terminal: `git clone PASTEITHERE`
     
     For example, if you were cloning this specific repository: `git clone https://github.com/vu-dylan/MELTGithubWorkshop.git`
 * Branch - Your own workspace, essentially
