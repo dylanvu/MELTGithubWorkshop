@@ -10,7 +10,7 @@ Demo Repository to Teach Git and GitHub
 * Create "checkpoints" and maintain a version history in case something goes very very wrong (it's saved me before, trust me)
 
 ## Prerequisites
-* A Github account
+* A Github account. When you start uploading code onto Github for the first time. it'll ask you to log in.
 * Git software (https://git-scm.com/downloads)
 * A repository to you are the owner of/are a collaborator
     * If you want to be added as a collaborator
