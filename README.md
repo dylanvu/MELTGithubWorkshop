@@ -59,7 +59,7 @@ This PDF has pretty much everything you'd need for commands: https://education.g
     For example: `git add README.md`
     
     If you want to add all files in the directory: `git add .`
-2. Commit - "saving" what you changed
+2. Commit - "saving" what you changed. Usually this is done when whatever you have seems to work and you want to finalize the change.
     
     Make sure your code is saved locally on your computer. On VS Code, hit CTRL + S on Windows.
     
@@ -88,7 +88,7 @@ This PDF has pretty much everything you'd need for commands: https://education.g
     `git merge mybranchnamehere`
     
     `git push origin main`
-5. Sometimes: pulling from main
+5. Sometimes: pulling from main (when you try to push, it'll tell you that your branch is behind on commmits)
     * If someone else edits a branch (main included) that you are working on, you have to update your local copy of the code.
 
         For example:
@@ -96,7 +96,7 @@ This PDF has pretty much everything you'd need for commands: https://education.g
         `git pull origin main`
     
         `git pull origin mybranchnamehere`
-6. Fixing merge conflicts
+6. Fixing merge conflicts (will be covered next week)
     
     If two people edit the same lines of code at once, Git doesn't know which is the "correct" copy. So you will get a merge conflict. If this happens, you have to open up the file on your computer, fix the conflict, commit, and then push again
 
