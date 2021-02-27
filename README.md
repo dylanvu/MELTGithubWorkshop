@@ -15,6 +15,9 @@ Demo Repository to Teach Git and GitHub
 * A repository to you are the owner of/are a collaborator
     * If you want to be added as a collaborator
         * Ask the owner of the repo to go to "Settings" -> "Manage Access" -> Add you as a collaborator
+    * When creating a repository, it'll ask whether you want a README or a .gitignore
+        * README: A text document that is the "face" of your repository. It contains relevant info such as how to use the software, instructions, etc.
+        * .gitignore: A list of file names to exclude when you are putting code on GitHub. Useful if you have secret passwords, keys, etc that you definitely don't want public.
 
 ## Terminology
 * Command Line/Terminal - If you're familiar with Python, it'll be where you run all the `pip install` commands. On Windows, you can use cmd or powershell as well.
