@@ -110,6 +110,6 @@ This PDF has pretty much everything you'd need for commands: https://education.g
 * After cloning the repository, you can't create a branch or anything -> Do `git status` and see what branch you are on. If you aren't on main (you might be on "master"), switch to main: `git checkout main` and try again
 ## Testing out GitHub
 
-Test
+Hello Melt Team
 
 # This is Dylan's latest commit
